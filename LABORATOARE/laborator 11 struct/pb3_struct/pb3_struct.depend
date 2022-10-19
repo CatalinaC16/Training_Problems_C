@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641669974 source:c:\users\user\desktop\pb3_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+

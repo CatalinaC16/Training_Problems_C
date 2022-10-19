@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635845315 source:d:\pc\laborator 5\l5-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"multime.h"
+
+1635841969 d:\pc\laborator 5\l5-3\multime.h
+
+1635844945 source:d:\pc\laborator 5\l5-3\multime.c
+	<stdio.h>
+	"multime.h"
+

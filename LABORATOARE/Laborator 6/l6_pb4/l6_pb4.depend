@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1636220441 source:d:\pc\laborator 6\l6_pb4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"complex.h"
+	<math.h>
+
+1636220304 source:d:\pc\laborator 6\l6_pb4\complex.c
+	<stdio.h>
+	<math.h>
+	"complex.h"
+
+1636220441 d:\pc\laborator 6\l6_pb4\complex.h
+

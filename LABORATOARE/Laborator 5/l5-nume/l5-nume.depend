@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1635841215 source:d:\pc\laborator 5\l5-nume\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrice.h"
+
+1635841215 d:\pc\laborator 5\l5-nume\matrice.h
+
+1635841215 source:d:\pc\laborator 5\l5-nume\matrice.c
+	<stdio.h>
+	<math.h>
+	"matrice.h"
+

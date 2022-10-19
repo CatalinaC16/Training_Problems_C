@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1641242010 source:d:\pc\laborator 11\pb.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1641242252 source:d:\pc\laborator 11 struct\pb.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

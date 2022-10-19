@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637597491 source:c:\users\user\desktop\derivata polinom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
